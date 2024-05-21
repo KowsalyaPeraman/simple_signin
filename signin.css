@@ -1,0 +1,72 @@
+    body {
+      background-image: url("./assest/94556.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: fixed;
+      font-family: sans-serif;
+    }
+    h4{
+      font-size: 29px;
+      margin-top: 0;
+      color:white;
+    }
+    .sign_in {
+      text-align: center;
+      font-family: sans-serif;
+      box-shadow: 0 4px 6px 3px black;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      padding-left: 150px;
+      padding-right: 150px;
+      margin-left: 460px;
+      margin-right: 500px;
+      margin-top: 150px;
+      background-color: rgb(107, 153, 145);
+    }
+
+    .input_type {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      
+    }
+    .input_type input{
+      padding:10px 16px 10px 16px;
+      border-radius: 30px;
+    }
+    .input_type ::placeholder{
+      font-size: 14px;
+      color:black;
+      text-align: center;
+    }
+    .password {
+      margin-top: 10px;
+    }
+
+    .log_in {
+      width:200px;
+      font-family: sans-serif;
+      margin-top: 20px;
+      padding: 10px 65px 10px 65px;
+      border-radius: 30px;
+      background-color: rgb(176,217,209);
+      color: rgb(0, 0, 0);
+      border: none;
+      font-size: 14px;
+      border:2px solid black;
+    }
+
+    .reset-signup {
+      font-size: 10px;
+      margin-top: 20px;
+    }
+
+    hr {
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    #sign {
+      margin-top: 0px;
+    }
